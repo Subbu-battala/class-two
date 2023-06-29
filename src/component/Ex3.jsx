@@ -3,7 +3,7 @@ import React,{ useState } from "react";
 
 // state => internal variable of react, number,string,boolean,object,array
 
-function Ex1 (props) {
+ const Ex3 = function (props) {
     // useState => React hook
     // const [state,handler] = useState(intial value)
     const [x,setX] = useState(123)
@@ -44,4 +44,4 @@ function Ex1 (props) {
     )
 }
 
-export default Ex1
+export default Ex3
