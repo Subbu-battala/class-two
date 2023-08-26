@@ -7,6 +7,7 @@ import Ex5 from "./component/Ex5";
 import Ex6 from "./component/Ex6";
 import Ex7 from "./component/Ex7";
 import Ex8 from "./component/Ex8";
+import Ex9 from "./component/Ex9";
 
 function  App(props) {
     return (
@@ -17,9 +18,9 @@ function  App(props) {
            {/* <Ex3/> */}
            {/* <Ex4/> */}
            {/* <Ex5/> */}
-           {/* <Ex6/> */}
+           <Ex9/>
            {/* <Ex7/> */}
-           <Ex8/>
+           {/* <Ex8/> */}
       </div>
     )
 }

@@ -16,14 +16,14 @@ function Ex1 (props) {
         age : 24
     })
 
-    const [colors,setColors] = useState(['red','blue','green'])
+    const [colors,setColors] = useState(['red','blue','green'])            
     return (
         <div>
             <h3>States in functional components</h3>
             <h4> var x = { x } </h4>
             <h4>var title = { title }</h4>
             <hr />
-            <h4> {view ? "say true": "say false"}</h4>
+            <h4> {view ? "say true": "say false"}</h4>   
 
             <hr />
 

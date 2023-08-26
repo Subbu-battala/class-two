@@ -19,3 +19,36 @@ function Ex5(props) {
 }
 
 export default Ex5
+
+
+/* 
+    function ex1 (props) {
+        return(
+
+        )
+    }
+
+    const ex1 = (props) => {
+        return(
+
+        )
+    }
+
+    const ex1 = function(props) {
+
+    }
+
+    class ex1 extends React.component{
+        constructor(props) {
+            super(props);
+        }
+    }
+
+    render() {
+        return(
+            
+        )
+    }
+
+
+*/
